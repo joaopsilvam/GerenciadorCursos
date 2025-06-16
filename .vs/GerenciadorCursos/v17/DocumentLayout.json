@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\migrations\\20250614224815_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\migrations\\20250614224815_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\dtos\\responses\\matriculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\dtos\\responses\\matriculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\dtos\\responses\\cursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\dtos\\responses\\cursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\dtos\\responses\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\dtos\\responses\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\dtos\\requests\\matriculacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\dtos\\requests\\matriculacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\dtos\\requests\\cursoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\dtos\\requests\\cursoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\dtos\\requests\\cursocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\dtos\\requests\\cursocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\dtos\\requests\\alunoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\dtos\\requests\\alunoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\dtos\\requests\\alunocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\dtos\\requests\\alunocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|c:\\users\\joaop\\desktop\\projetos\\fortes tecnologia\\gerenciadorcursos\\gerenciadorcursos\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0A62E-EE8B-4424-AD2C-480F3E5558EF}|GerenciadorCursos\\GerenciadorCursos.csproj|solutionrelative:gerenciadorcursos\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Models\\Matricula.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Models\\Matricula.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Models\\Matricula.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Models\\Matricula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:26.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Models\\Curso.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:24.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Models\\Aluno.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:22.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:19.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250614224815_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Migrations\\20250614224815_Inicial.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Migrations\\20250614224815_Inicial.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Migrations\\20250614224815_Inicial.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Migrations\\20250614224815_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:16.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatriculaDto.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Responses\\MatriculaDto.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Dtos\\Responses\\MatriculaDto.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Responses\\MatriculaDto.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Dtos\\Responses\\MatriculaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:13.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CursoDto.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Responses\\CursoDto.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Dtos\\Responses\\CursoDto.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Responses\\CursoDto.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Dtos\\Responses\\CursoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:12.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlunoDto.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Responses\\AlunoDto.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Dtos\\Responses\\AlunoDto.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Responses\\AlunoDto.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Dtos\\Responses\\AlunoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:10.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatriculaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Requests\\MatriculaCreateDto.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Dtos\\Requests\\MatriculaCreateDto.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Requests\\MatriculaCreateDto.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Dtos\\Requests\\MatriculaCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:07.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CursoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Requests\\CursoUpdateDto.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Dtos\\Requests\\CursoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Requests\\CursoUpdateDto.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Dtos\\Requests\\CursoUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:05.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CursoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Requests\\CursoCreateDto.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Dtos\\Requests\\CursoCreateDto.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Requests\\CursoCreateDto.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Dtos\\Requests\\CursoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlunoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Requests\\AlunoUpdateDto.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Dtos\\Requests\\AlunoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Requests\\AlunoUpdateDto.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Dtos\\Requests\\AlunoUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:03.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlunoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Requests\\AlunoCreateDto.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Dtos\\Requests\\AlunoCreateDto.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Dtos\\Requests\\AlunoCreateDto.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Dtos\\Requests\\AlunoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:20:01.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:19:56.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Controllers\\CursosController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T23:50:57.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MatriculasController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Controllers\\MatriculasController.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Controllers\\MatriculasController.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Controllers\\MatriculasController.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Controllers\\MatriculasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T23:50:49.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "GerenciadorCursos\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\joaop\\Desktop\\Projetos\\Fortes Tecnologia\\GerenciadorCursos\\GerenciadorCursos\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "GerenciadorCursos\\Controllers\\AlunosController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T23:11:30.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
